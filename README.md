@@ -13,6 +13,7 @@ Cybersecurity is a field I’m truly passionate about, and I thrive on solving c
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/brittaparks/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Persistence)](https://github.com/brittaparks/Threat-Hunting-Scenario-Persistence)**
 - **[Threat Hunting Scenario (Typosquatting/Brand Impersonation)](https://github.com/brittaparks/Threat-Hunting-Scenario-Typosquatting)**
+- **[Security Operations - Creating An Alert Rule In Sentinel](https://github.com/brittaparks/Security-Operation---Creating-Alert-Rule-In-Sentinel/)**
 
 <hr/>
 
