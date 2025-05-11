@@ -15,6 +15,7 @@ Cybersecurity is a field I’m truly passionate about, and I thrive on solving c
 - **[Threat Hunting Scenario (Typosquatting/Brand Impersonation)](https://github.com/brittaparks/Threat-Hunting-Scenario-Typosquatting)**
 - **[Creating An Alert Rule In Sentinel (Brute Force Attempt Detection)](https://github.com/brittaparks/Creating-An-Alert-Rule-In-Sentinel---Brute-Force-Attempt-Detection)**
 - **[Creating An Alert Rule In Sentinel (PowerShell Suspicious Web Request)](https://github.com/brittaparks/Creating-An-Alert-Rule-In-Sentinel-PowerShell-Suspicious-Web-Request-)**
+- **[Creating An Alert Rule In Sentinel (Possible Impossible Travel)](https://github.com/brittaparks/Creating-An-Alert-Rule-In-Sentinel---Potential-Impossible-Travel)**
 
 <hr/>
 
