@@ -21,7 +21,7 @@ Cybersecurity is a field I’m truly passionate about, and I thrive on solving c
 - **[Creating An Alert Rule In Sentinel (PowerShell Suspicious Web Request)](https://github.com/brittaparks/Creating-An-Alert-Rule-In-Sentinel-PowerShell-Suspicious-Web-Request-)**
 - **[Creating An Alert Rule In Sentinel (Possible Impossible Travel)](https://github.com/brittaparks/Creating-An-Alert-Rule-In-Sentinel---Potential-Impossible-Travel)**
 - **[Attack Maps - Visualizing Azure Login Successes and Failures](https://github.com/brittaparks/Attack-Maps-Visualizing-Azure-Login-Successes-and-Failures)**
-- **[Phishing Email Analysis](https://github.com/brittaparks/Phishing-Email-Analysis-Report)**
+- **[Phishing Email Analysis Report](https://github.com/brittaparks/Phishing-Email-Analysis-Report)**
 
 <hr/>
 
