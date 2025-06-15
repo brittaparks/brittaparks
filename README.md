@@ -10,6 +10,7 @@ Cybersecurity is a field I’m truly passionate about, and I thrive on solving c
 
 ## 🚨 Threat Hunting and Security Operations
 
+- **[Threat Hunting Scenario (Deep Access - The Adversary)](https://github.com/brittaparks/Threat-Hunting-Scenario---Deep-Access-The-Adversary)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/brittaparks/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Persistence)](https://github.com/brittaparks/Threat-Hunting-Scenario-Persistence)**
 - **[Threat Hunting Scenario (Typosquatting/Brand Impersonation)](https://github.com/brittaparks/Threat-Hunting-Scenario-Typosquatting)**
