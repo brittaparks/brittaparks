@@ -23,6 +23,8 @@ Cybersecurity is a field I’m truly passionate about, and I thrive on solving c
 - **[Creating An Alert Rule In Sentinel (Possible Impossible Travel)](https://github.com/brittaparks/Creating-An-Alert-Rule-In-Sentinel---Potential-Impossible-Travel)**
 - **[Attack Maps - Visualizing Entra ID Login Successes and Failures](https://github.com/brittaparks/Attack-Maps---Visualizing-Entra-ID-Login-Successes-and-Failures/)**
 - **[Phishing Email Analysis Report](https://github.com/brittaparks/Phishing-Email-Analysis-Report)**
+- **[tcpdump](https://github.com/brittaparks/tcpdump)**
+- **[Wireshark](https://github.com/brittaparks/Wireshark)**
 
 <hr/>
 
@@ -31,6 +33,9 @@ Cybersecurity is a field I’m truly passionate about, and I thrive on solving c
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
+
+![](https://komarev.com/ghpvc/?username=brittaparks&style=pixel)
 
 
 [linkedin]: https://linkedin.com/in/brittaparks
