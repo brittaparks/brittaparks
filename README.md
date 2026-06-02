@@ -1,3 +1,5 @@
+![banner](3.png)
+
 # <a href="https://www.linkedin.com/in/brittaparks/">Britt Parks</a>' IT and Cybersecurity Project Portfolio 🔐
 
 Cybersecurity is a field I’m truly passionate about, and I thrive on solving complex security issues through practical, hands-on work. Whether it's identifying vulnerabilities or detecting threats, these projects allow me to engage deeply with the fast-changing world of cybersecurity. Take a look at my work to see how I’m contributing to improving security practices and protecting digital environments!
