@@ -1,4 +1,4 @@
-![banner](3.png)
+![banner](brittbanner.png)
 
 # <a href="https://www.linkedin.com/in/brittaparks/">Britt Parks</a>' IT and Cybersecurity Project Portfolio 🔐
 
