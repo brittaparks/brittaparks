@@ -29,6 +29,7 @@ Cybersecurity is a field I’m truly passionate about, and I thrive on solving c
 - **[Wireshark](https://github.com/brittaparks/Wireshark)**
 - **[AWS-T-pot Using Linux with Kibana/Elastic, Cowrie & tcpdump](https://github.com/brittaparks/AWS-Tpot)**
 - **[Burp Suite (Modifying and Reissuing Requests)](https://github.com/brittaparks/Burp-Suite---Modifying-and-Reissuing-Requests)**
+- **[Python Projects](https://github.com/brittaparks/Python)**
 <hr/>
 
 
